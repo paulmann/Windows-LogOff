@@ -339,7 +339,7 @@ Contributions are welcome! To contribute:
 
 ## 11. License
 
-This project is distributed under the **MIT License**. See the [LICENSE](LICENSE) file for full terms.
+This project is distributed under the **PolyForm Noncommercial License 1.0.0**. See the [LICENSE](LICENSE) file for full terms.
 
 In short:
 - You are free to use, modify, and distribute this software.
