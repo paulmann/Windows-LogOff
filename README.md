@@ -4,7 +4,6 @@
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-7.0%2B-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%7C11%7CServer%202016--2025-lightgrey.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Admin Required](https://img.shields.io/badge/Admin%20Required-Yes-red.svg)
 ![Language](https://img.shields.io/badge/Language-PowerShell--7.5-purple.svg)
 
