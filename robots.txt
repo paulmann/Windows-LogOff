@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paulmann.github.io/Windows-LogOff/sitemap.xml
